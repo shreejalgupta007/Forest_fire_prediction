@@ -12,4 +12,5 @@
    7. The model is then used to predict the burnt area based on current data and the coordinates where the fire is spotted.
    8. This prediction can be used for calculating the concerned forces to be sent to the incident.
    9. *It can be made live by using satellite API’s.*
+   
    PS - Points in italic can be inculcated in later updates.

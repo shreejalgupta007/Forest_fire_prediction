@@ -1,16 +1,14 @@
-Risk Management
+5. RISK MANAGEMENT
 
-5.1 Risk Identification
-Following will be the risk involved in my project:
--> People are already using Facebook to find friends. So, what would be the real cause that would motivate them to join my application.
+Risk Identification:
 
-5.2 Risk Mitigation
--> Even though most of the users would already be using Facebook, our platform would still offer them many things that is not there on Facebook. For eg-
-1.They don’t meet people who share common interests and passions as much. Our application would enable them to meet people (apart from usual friends) who share common interests and passions on a more frequent basis.
-2. Users of fb cannot share songs on-the-go which they have sung whereas on our app they can do that on-the-go.
-3. People can post mysteries/cases and other people can solve it. Moreover, people will get points in case they solve the mysteries or on the basis of popularity of their posts.
-4. More importantly, people need not register for my application, but instead, they can login using their already existing accounts of Google/Facebook.
+Following are the risk involved in the project:
+1. To avoid forest fire, we need real time data to predict the place where the forest fire may occur.
+2. We need to identify the wind speed and direction accurately, so that in case of forest fire, we can stop it as soon as possible.
 
-Thus, I think that there is a considerable amount of difference between Facebook/Instagram/Twitter and my application and it would attract many people.
+Risk Mitigation:
 
-
+1. To get the real time analytics we can use Spark (which supports Real time processing) or any other tool that can do real time analysis.
+2. After getting real time data we can call the Forest department and police station so that they can control the fire and the area around that forest.
+3. To get high accuracy, we need to monitor the lattitide, longitude and many other factors to get the correct wind direction.
+4. Large amount of data is needed to get more accurate results to analyze the wind flow properly, which can be done by either big data analysis tools or any other technology/libraries.

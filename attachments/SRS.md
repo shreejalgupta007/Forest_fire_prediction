@@ -1,4 +1,4 @@
-4. Delverables:(All the paraphernalia required during development)
+4. DELIVERABLES:(All the paraphernalia required during development)
 
 ●	Feature Specification
 ●	Product Design

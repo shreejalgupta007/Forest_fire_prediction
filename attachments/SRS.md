@@ -1,10 +1,10 @@
 4. Delverables:(All the paraphernalia required during development)
 
-●	Feature specification
-●	Product design
-●	Test plan
-●	Development document
-●	Source code
+●	Feature Specification
+●	Product Design
+●	Test Plan
+●	Development Document
+●	Source Code
 
 5. RISK MANAGEMENT
 

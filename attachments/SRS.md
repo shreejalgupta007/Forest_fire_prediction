@@ -10,13 +10,13 @@ Forest fires are a major environmental issue, creating economical and ecological
 
 For example: In Australia, throughout 4 months at least 33 people were killed including four firefighters and more than 11 million hectares (110,000 sq km or 27.2 million acres) of bush, forest and parks has burnt. We aim to develop an application in which the forest fire will be predicted over the static data and if possible real time satellite data.
 
-##    2.1 Customers:
+### 2.1 Customers:
 
    * This application can be used by anyone ranging from a child to an old-adult.
    * The application will use simple regional languages so that everyone could understand it.
    * This will our contribution to forest departments, FRI, NIDM and other such Govt. departments.
 
-###    2.2 Functionality:
+### 2.2 Functionality:
 
    * It can detect and/or predict forest fire at a faster rate.
    * It can predict the data more accurately by analyzing the data of other recent forest fires.
@@ -28,11 +28,11 @@ For example: In Australia, throughout 4 months at least 33 people were killed in
    * This prediction can be used for calculating the concerned forces to be sent to the incident.
    * *It can be made live by using satellite API’s.*
    
-###    2.3 Platform:
+### 2.3 Platform:
 
 We have planned to host this product on a website providing easy access to our end users.
 
-###   2.4 Development Responsibility
+### 2.4 Development Responsibility
 
 We, the team of UsoC2020, would be developing the software and we are responsible for the creation of the Model, Database and all the other related stuffs in this project.
 

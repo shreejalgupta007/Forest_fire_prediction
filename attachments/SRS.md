@@ -46,11 +46,11 @@ We, the team of UsoC2020, would be developing the software and we are responsibl
 For future work we can produce wildfire risk maps by considering the vulnerable areas Finding the location of communities with a lower capacity to prevent the wildfires and even the recovery management will be a useful criterion for risk map production. 
 
 ## 4. Deliverables: (All the paraphernalia required during development)
-●	Feature Specification
-●	Product Design
-●	Test Plan
-●	Development Document
-●	Source Code
+-	Feature Specification
+-	Product Design
+-	Test Plan
+-	Development Document
+-	Source Code
 
 ## 5. Risk Management:
 

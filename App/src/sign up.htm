@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sign up page</title>
+<style>
+body{
+background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('tree.jpg');
+height:200vh;
+background-repeat:no-repeat;
+background-size:cover;
+bakground-position:center;
+}
+.pro{
+width:19%;
+height:16%;;
+border-radius:50%;
+position:absolute;
+top:-5.5%;
+left:calc(91% - 50%);
+}
+h1{
+text-align:center;
+font-size:250%;
+}
+.signupbox{
+width:500px;
+height:730px;
+top:100px;
+background:rgba(0,0,0,0.8);
+color:#fff;
+box-sizing:border-box;
+top:65%;
+left:50%;
+position:absolute;
+transform:translate(-50%,-50%);
+padding:40px;
+}
+.signupbox p{
+font-size:150%;
+font-weight:bold;
+padding:0%;
+margin:0%;
+}
+.signupbox input{
+width:100%;
+margin-bottom:8%;
+}
+.signupbox input[type="text"], input[type="password"], input[type="email"]
+{
+color:white;
+border:none;
+border-bottom:2px solid #fff;
+background:transparent;
+outline:none;
+height:30px;
+}
+.signupbox input[type="submit"]
+{
+height:40px;
+background:blue;
+color:white;
+font-size:20px;
+border-radius:20px;
+}
+.signupbox input[type="submit"]:hover
+{
+background:lime;
+color:black;
+}
+.signupbox a{
+line-height:30px;
+color:white;
+}
+.signupbox a:hover{
+color:blue;
+}
+</style>
+<body>
+<div class="signupbox">
+<img src="pro.png" class="pro">
+<h1>Signup Here</h1>
+<form>
+<p>Full Name</p>
+<input type="text" name="" placeholder="Enter full name" required>
+<p>email id</p>
+<input type="email" name="" placeholder="Enter email id" required>
+<p>Username</p>
+<input type="text" name="" placeholder="Enter Username" required>
+<p>Password</p>
+<input type="password" name="" placeholder="Enter Password" required>
+<p>Repeat Password</p>
+<input type="password" name="" placeholder="Re-enter Password" required>
+<input type="submit" name="" value="Signup">
+<a href="sign.html">Already have an account?</a>
+</form>
+</div>
+</body>
+</html>

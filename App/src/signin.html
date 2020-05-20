@@ -1,0 +1,92 @@
+<html>
+<head>
+<title>Sign in page</title>
+<style>
+body{
+background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('tree.jpg');
+height:150vh;
+background-repeat:no-repeat;
+background-size:cover;
+bakground-position:center;
+}
+.loginbox{
+width:350px;
+height:480px;
+top:100px;
+background:rgba(0,0,0,0.8);
+color:#fff;
+box-sizing:border-box;
+top:50%;
+left:50%;
+position:absolute;
+transform:translate(-50%,-50%);
+padding:40px;
+}
+.pro{
+width:25%;
+height:25%;;
+border-radius:50%;
+position:absolute;
+top:-10%;
+left:calc(87% - 50%);
+}
+h1{
+text-align:center;
+font-size:250%;
+}
+.loginbox p{
+font-size:150%;
+font-weight:bold;
+padding:0%;
+margin:0%;
+}
+.loginbox input{
+width:100%;
+margin-bottom:10%;
+}
+.loginbox input[type="text"], input[type="password"]
+{
+color:white;
+border:none;
+border-bottom:2px solid #fff;
+background:transparent;
+outline:none;
+height:30px;
+}
+.loginbox input[type="submit"]
+{
+height:40px;
+background:blue;
+color:white;
+font-size:20px;
+border-radius:20px;
+}
+.loginbox input[type="submit"]:hover
+{
+background:lime;
+color:black;
+}
+.loginbox a{
+line-height:30px;
+color:white;
+}
+.loginbox a:hover{
+color:blue;
+}
+</style>
+<body>
+<div class="loginbox">
+<img src="pro.png" class="pro">
+<h1>Login Here</h1>
+<form method="POST" action="submit.php">
+<p>Username</p>
+<input type="text" name="username" placeholder="Enter Username" required>
+<p>Password</p>
+<input type="password" name="password" placeholder="Enter Password" required>
+<input type="submit" name="" value="Login">
+<a href="forgot.html">Forgot password?</a><br>
+<a href="sign up.html">Don't have an account?</a>
+</form>
+</div>
+</body>
+</html>
